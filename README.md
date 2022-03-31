@@ -2,6 +2,10 @@
 
 ## Laravel 9 e Sanctum.
 
+```Bash
+composer install
+```
+
 ```bash
 cp .env.example .env
 ```
