@@ -2,6 +2,8 @@
 
 ## Laravel 9 e Sanctum.
 
+prequisitos: php: ^8.0.2 e composer ^2.2.6
+
 ```Bash
 composer install
 ```
