@@ -28,6 +28,7 @@ php artisan migrate
 
 ```bash
 Method: Post
+Accept: application/json
 http://localhost:8000/api/register
 ```
 
@@ -38,6 +39,7 @@ http://localhost:8000/api/register
 
 ```bash
 Method: Post
+Accept: application/json
 http://localhost:8000/api/login
 ```
 
@@ -45,6 +47,7 @@ http://localhost:8000/api/login
 
 ```bash
 Method: Post
+Accept: application/json
 Header: Bearer Token
 http://localhost:8000/api/logout
 ```
@@ -53,6 +56,7 @@ http://localhost:8000/api/logout
 
 ```bash
 Method: Get
+Accept: application/json
 Header: Bearer Token
 http://localhost:8000/api/user
 ```
