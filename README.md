@@ -52,4 +52,3 @@ Method: Get
 Header: Bearer Token
 http://localhost:8000/api/user
 ```
-"# desafio-php-laravel" 
